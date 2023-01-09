@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Ecologia" title="#Ecologia" src="./readmeAssets/ecologia.svg" width="250px" />
 </h1>
-
+AAAAA
 <h4 align="center"> 
 	Solução digital proposta na Next Level Week da rocketseat que facilita a coleta seletiva
 </h4>
